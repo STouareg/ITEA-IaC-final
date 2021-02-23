@@ -1,0 +1,15 @@
+- name: exam-iac
+  gather_facts: false
+  hosts: [all]
+  become: yes
+
+  tasks:
+
+    - name: Create exam-iac-app2
+      docker_container:
+        name: wordpress
+        image: wordpress
+        pull: true
+        state: started
+        ports:
+          - "80:80"

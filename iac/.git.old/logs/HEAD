@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 59c062653c77d9d101a1184489ad84a1da284f59 s.turyk <sergiituryk@gmail.com> 1614010030 +0200	commit (initial): 1st commit
+59c062653c77d9d101a1184489ad84a1da284f59 0000000000000000000000000000000000000000 s.turyk <sergiituryk@gmail.com> 1614010050 +0200	Branch: renamed refs/heads/main to refs/heads/main
+59c062653c77d9d101a1184489ad84a1da284f59 59c062653c77d9d101a1184489ad84a1da284f59 s.turyk <sergiituryk@gmail.com> 1614010050 +0200	Branch: renamed refs/heads/main to refs/heads/main
+59c062653c77d9d101a1184489ad84a1da284f59 2771a503ff89ea7655da4e128666a0432cab3b97 s.turyk <sergiituryk@gmail.com> 1614010191 +0200	commit: 1st commit
+2771a503ff89ea7655da4e128666a0432cab3b97 217409654147607403c2a1762cabce972d26fe9c s.turyk <sergiituryk@gmail.com> 1614035880 +0200	commit: fixed lowercase
+217409654147607403c2a1762cabce972d26fe9c 731b4df0e5fff11d97ed5b46452e08abd28e62c0 s.turyk <sergiituryk@gmail.com> 1614036254 +0200	commit: fixed lowercase
+731b4df0e5fff11d97ed5b46452e08abd28e62c0 a7f0b81144e8310df6a0c023dcebad2bfdb9e238 s.turyk <sergiituryk@gmail.com> 1614037188 +0200	commit: recreate all
+a7f0b81144e8310df6a0c023dcebad2bfdb9e238 3561711c811dead1a52e05b3f3ff2ad45190eb8f s.turyk <sergiituryk@gmail.com> 1614037532 +0200	commit: recreate all
+3561711c811dead1a52e05b3f3ff2ad45190eb8f 9480a7ab576d4b98726b47fd6cab89562236800f s.turyk <sergiituryk@gmail.com> 1614037962 +0200	commit: fixed output elb
+9480a7ab576d4b98726b47fd6cab89562236800f 495988a27aa2304e1377e13449439ccd511117db s.turyk <sergiituryk@gmail.com> 1614039721 +0200	commit: edited elb
+495988a27aa2304e1377e13449439ccd511117db 17f802e7f106a8f5adc2d1e8546292ff86e9eebb s.turyk <sergiituryk@gmail.com> 1614039811 +0200	commit: edited vpc

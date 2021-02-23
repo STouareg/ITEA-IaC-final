@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 f8a15135dc18a3db0391c2bac24d6755bf4e832f s.turyk <sergiituryk@gmail.com> 1614006071 +0200	commit (initial): App main
+f8a15135dc18a3db0391c2bac24d6755bf4e832f f8a15135dc18a3db0391c2bac24d6755bf4e832f s.turyk <sergiituryk@gmail.com> 1614006077 +0200	Branch: renamed refs/heads/main to refs/heads/main
+f8a15135dc18a3db0391c2bac24d6755bf4e832f 0742145b38ee68adf7a71f2db2616a633da78214 s.turyk <sergiituryk@gmail.com> 1614006659 +0200	commit: main
+0742145b38ee68adf7a71f2db2616a633da78214 62b8d39673343ace25eb21e0aa5b854202dd7993 s.turyk <sergiituryk@gmail.com> 1614006901 +0200	commit: main
+62b8d39673343ace25eb21e0aa5b854202dd7993 83fbf919504cbcc21f8b53f2453f4750df5c9d1e s.turyk <sergiituryk@gmail.com> 1614007308 +0200	commit: change port 8080->80
+83fbf919504cbcc21f8b53f2453f4750df5c9d1e 78bb3af171ad223636795e5cdf57a1841a5b1870 s.turyk <sergiituryk@gmail.com> 1614008142 +0200	commit: port 8080
+78bb3af171ad223636795e5cdf57a1841a5b1870 90a5c0e350d704bea6157e30db2fac2753fdf1ca s.turyk <sergiituryk@gmail.com> 1614008156 +0200	commit: port 8080
+90a5c0e350d704bea6157e30db2fac2753fdf1ca 6a95f6337608d757f426120cf2e946d68ca43b8b s.turyk <sergiituryk@gmail.com> 1614010094 +0200	commit: Final fixed
+6a95f6337608d757f426120cf2e946d68ca43b8b 57b7d45080e1059c536b86814a6a327071fb7500 s.turyk <sergiituryk@gmail.com> 1614038938 +0200	commit: recreate
+57b7d45080e1059c536b86814a6a327071fb7500 e7632474c8cd19d739c1db1ddd9b87175011dd60 s.turyk <sergiituryk@gmail.com> 1614039269 +0200	commit: fixed error repo
